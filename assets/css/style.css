@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-style: normal;
 }
 
 body {
@@ -226,3 +227,4 @@ section {
 .text-right {
     text-align: right;
 }
+
