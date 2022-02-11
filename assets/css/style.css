@@ -228,3 +228,29 @@ section {
     text-align: right;
 }
 
+.contact {
+    background: #024e76;
+    text-align: center;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+
+.contact-info {
+    overflow: auto;
+}
+
+.contact-info div {
+    display: inline-block;
+    width: 410px;
+    vertical-align: top;
+    text-align: left;
+    padding: 30px 0 0 60px;
+    color: white;
+}
